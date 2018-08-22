@@ -6,16 +6,15 @@ STYLE=chmduquesne
 all: html pdf docx rtf
 
 pdf: init
-	for f in $(IN_DIR)/*.md; do \
-		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
-		echo $$FILE_NAME.pdf; \
-		pandoc --standalone --template $(STYLES_DIR)/$(STYLE).tex \
-			--from markdown --to context \
-			--variable papersize=A4 \
-			--output $(OUT_DIR)/$$FILE_NAME.tex $$f > /dev/null; \
-		context $(OUT_DIR)/$$FILE_NAME.tex \
-			--result=$(OUT_DIR)/$$FILE_NAME.pdf > $(OUT_DIR)/context_$$FILE_NAME.log 2>&1; \
-	done
+	pandoc --standalone --template $(STYLES_DIR)/$(STYLE).tex \
+		--from markdown --to context \
+		--variable papersize=A4 \
+		--output $(OUT_DIR)/resume.tex \
+		$(IN_DIR)/header.md $(IN_DIR)/education.md $(IN_DIR)/jobs.md $(IN_DIR)/break.md $(IN_DIR)/other-jobs.md $(IN_DIR)/break.md $(IN_DIR)/technology.md $(IN_DIR)/workplace.md $(IN_DIR)/footer.md \
+		> /dev/null; \
+	sed -i 's/\(REPLACE_NEWPAGE\)/\\page[yes]/g' $(OUT_DIR)/resume.tex > /dev/null; \
+	context $(OUT_DIR)/resume.tex \
+		--result=$(OUT_DIR)/resume.pdf > $(OUT_DIR)/context_resume.log 2>&1; \
 
 html: init
 	for f in $(IN_DIR)/*.md; do \
