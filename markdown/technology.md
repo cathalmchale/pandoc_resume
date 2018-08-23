@@ -1,26 +1,31 @@
 ## Technology Summary
-TODO: format this as best suits chosen markdown fork.
-TODO: tweak the technologies to make more modern!
-core languages
-web server
-code
-services
-composition
 
-C#, C++
-ASP.NET – web forms and MVC
-Visual Studio, TFS, Subversion
-WCF, asmx, SOA, REST, XML/XSD
-MS Unity, Castle Windsor
+core languages
+:   C#, C++, Powershell
 
 others
-web client
-sql
-unit test
-data access
+:   Java, VB, Bash
 
-Java, VB, Batch, Lua
-Javascript, JQuery, Ajax, Telerik
-SQL Server, MySql, tSQL, Profiler
-MS Test, NUnit, Moq
-Entity Framework, NHibernate
+web server
+:   ASP.NET – web forms, MVC, Web API, .NET Core
+
+web client
+:   Javascript, JQuery, Telerik, AngularJS
+
+code
+:   Visual Studio, TFS, Subversion, VSTS, Git
+
+services
+:   WCF, SOA, XML/XSD, REST, Swagger API
+
+composition
+:   MS Unity, Castle Windsor
+
+unit test
+:   MS Test, NUnit, Moq
+
+sql
+:   SQL Server, MySql, tSQL, Profiler, Entity Framework, NHibernate
+
+database
+:   NoSQL, RavenDB, Elastic Search
