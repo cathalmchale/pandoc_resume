@@ -1,7 +1,7 @@
 ## Technology Summary
 
 core languages
-:   C#, C++, Powershell
+:   C#, C++, Powershell, Javascript
 
 others
 :   Java, VB, Bash
@@ -22,10 +22,13 @@ composition
 :   MS Unity, Castle Windsor
 
 unit test
-:   MS Test, NUnit, Moq
+:   MS Test, NUnit, Moq, Performance and Load testing
 
 sql
 :   SQL Server, MySql, tSQL, Profiler, Entity Framework, NHibernate
 
 database
 :   NoSQL, RavenDB, Elastic Search
+
+DevOps
+:   VSTS, Git, Octopus Deploy, Docker, Continuous delivery
