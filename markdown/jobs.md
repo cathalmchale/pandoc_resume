@@ -1,5 +1,37 @@
 ## Experience
 
+2014–Current
+:   **Software Developer and Architect, Pivot Technology Solutions, Galway.**
+
+Architecture, design and development of a multi-tenant B2B eProcurement and self-service ecommerce platform. The platform processes sales of $400M/yr for fortune 500 companies, with around 100k electronic eProcurement transactions via standard and custom pipelines.
+
+* Leading the DevOps offerings across all business units.
+   * Fully automated the deployment process which involved a war room team to plan and days to execute!
+   * Continuous Delivery.
+      * VSTS, Git.
+	  * Octopus Deploy.
+	  * Biz Talk Deployment Framework.
+	  * High quality story-by-story agile increments into Production.
+* Migrated the company's NoSQL offering to an "enterprise worthy" multi-node cluster.
+   * RavenDB (eventually consistent, Json document, NoSQL database with ACID transactions).
+   * Secured (TLS, API keys) 3-node cluster with role-based access.
+   * Highly Available with dynamic leader selection, 3-way replication and conflict resolution.
+   * Load Balanced reads.
+* ASP.NET MVC web application and Web API services.
+   * Currently upgrading to .NET Core.
+   * N-tier monolith, domain driven design with commands, operations, model behaviors etc.
+   * Angular JS, bootstrap.
+* Biz Talk eProcurement integrations.
+   * Sync-to-async processing of transactions in numerous standards (SAP Ariba, EDI) and custom integrations.
+   * ESB for asynchronous processing and to facilitate distributed transactions.
+* Batch processing and background jobs via Hangfire.
+* Logs and health monitoring.
+   * __E__lastic search, __L__og stash, __K__ibana (ELK stack).
+   * File beats (logs), Metric beats (resources).
+   * Proactive issue tracking and happy customers.
+   * Fully managed, geo-distributed, multi-shard instance at minimal cost. 
+
+
 2010–2014
 :   **Software Developer, Lumension Security, Galway.**
 
