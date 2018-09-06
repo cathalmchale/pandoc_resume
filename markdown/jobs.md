@@ -19,7 +19,7 @@ Architecture, design and development of a multi-tenant B2B eProcurement and self
    * Load Balanced reads.
 * ASP.NET MVC web application and Web API services.
    * Currently upgrading to .NET Core.
-   * N-tier monolith, domain driven design with commands, operations, model behaviors etc.
+   * N-tier monolith, domain driven design with commands, operations, model behaviours etc.
    * Angular JS, bootstrap.
 * Biz Talk eProcurement integrations.
    * Sync-to-async processing of transactions in numerous standards (SAP Ariba, EDI, cXML) and custom integrations.
