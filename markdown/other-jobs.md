@@ -4,7 +4,7 @@
 :   **Software Developer, Payzone, Dublin.**
 
 * Monetary transaction systems handling in excess of one million transactions daily.
-* Valued team member with primary responsibility for the development of one of Payzone’s core products.
+* Valued team member with primary responsibility for the development of one of Payzone's core products.
 * Unit testing and automated deployments to deliver high quality software to the QA / Test Team.
 
 2006-2007
@@ -17,7 +17,7 @@
 2005
 :   **Software Developer, The Laptop Company, New Zealand.**
 
-* Development and maintenance of an e-commerce website.
+* Development and maintenance of an ecommerce website.
 * Displayed an obvious enthusiasm to learn new technologies.
 * Became quickly affiliated with business processes.
 

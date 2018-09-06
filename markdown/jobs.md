@@ -38,7 +38,7 @@ Architecture, design and development of a multi-tenant B2B eProcurement and self
 Development of an endpoint management and security suite that helps businesses protect their vital information and manage critical risk across network and endpoint assets.
 
 * Senior Engineer with architectural and mentorship responsibilities.
-* Played key role in the delivery of three major releases and several update releases of Lumension’s flagship product.
+* Played key role in the delivery of three major releases and several update releases of Lumension's flagship product.
    * Mission critical enterprise software deployed to every PC and mobile device in our customers organisation.
    * Application Control has progressed from being an experimental security add-on to the pivotal module in an organisations I.T. security needs.
       * Deployments of 20,000+ nodes.
@@ -91,7 +91,7 @@ __KRO IT Solutions, Galway__
 Project based work with systems as diverse as:
 
 * In-house management tools for General Electric gas power stations.
-* Patient management application for St. Michael’s hospital Dun Laoghaire.
+* Patient management application for St. Michael's hospital Dun Laoghaire.
 * Data driven websites for numerous clients and industries.
 
 One core advantage of freelancing is the ability to research and experiment with cutting-edge technologies and offer innovative solutions tailored to the client. I continue to gain and impart knowledge in the open source market. Web projects for KRO offered innovative solutions, using OSS frameworks and libraries, at a fraction of the cost clients would expect to pay large consultancies for same. The cradle to grave experience has developed my analytical and design skills to an extremely high level.
