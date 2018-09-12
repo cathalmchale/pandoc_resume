@@ -1,5 +1,25 @@
 ### Other roles involving .NET development
 
+2008-2010
+:   **Software Developer and Architect, Freelance.**
+
+__IDION BV, The Netherlands__
+
+* Upgrade of a v1.1 ASP.NET web application to v3.5, with primary command over technical decision making.
+* MVP architecture, NHibernate, Castle Windsor.
+* WCF SoA with Biz Talk integrations.
+* Working together with remote teams required excellent communication skills.
+* Travelled to The Netherlands to strengthen business relations and project understanding.
+* Project analysis, specification and time estimation.
+
+__KRO IT Solutions, Galway__
+
+Project based work with systems as diverse as:
+
+* In-house management tools for General Electric gas power stations.
+* Patient management application for St. Michael's hospital Dun Laoghaire.
+* Data driven websites for numerous clients and industries.
+
 2007-2008
 :   **Software Developer, Payzone, Dublin.**
 
