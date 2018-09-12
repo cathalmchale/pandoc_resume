@@ -30,5 +30,5 @@ sql
 database
 :   NoSQL, RavenDB, Elastic Search
 
-DevOps
+devops
 :   VSTS, Git, Octopus Deploy, Docker, Continuous delivery

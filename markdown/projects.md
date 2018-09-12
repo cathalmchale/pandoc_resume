@@ -8,4 +8,4 @@ Home automation
 This resume
 :   https://github.com/cathalmchale/pandoc_resume
 
-    *Compile and output this resume with Docker.*
+    *Compile and output this resume from markdown with Docker.*
