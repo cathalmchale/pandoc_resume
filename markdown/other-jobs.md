@@ -5,7 +5,7 @@
 
 __IDION BV, The Netherlands__
 
-* Upgrade of a v1.1 ASP.NET web application to v3.5, with primary command over technical decision making.
+* Upgrade ASP to ASP.NET v3.5, with primary command over technical decision making.
 * MVP architecture, NHibernate, Castle Windsor, WCF SoA with Biz Talk integrations.
 * Travelled to The Netherlands to strengthen business relations and project understanding.
 * Project analysis, specification and time estimation.
@@ -13,21 +13,20 @@ __IDION BV, The Netherlands__
 __KRO IT Solutions, Galway__
 
 Project based work with systems across varying industries; Gas power stations, green energy, hospital healthcare solutions.
-
-* ASP.NET MVC, data driven web applications.
+ASP.NET MVC, data driven web applications.
 
 2007-2008
 :   **Software Developer, Payzone, Dublin.**
 
-* Primary responsibility for the development of one of Payzone's core products.
-* Unit testing and automated deployments integrating with an ecosystem that handles in excess of one million transactions daily.
+Primary responsibility for the development of one of Payzone's core products.
+Unit testing and automated deployments integrating with an ecosystem that handles in excess of one million transactions daily.
 
 2006-2007
 :   **Software Developer, Quantum Healthcare Informatics, Dublin.**
 
-* Development of an extensive modular GUI and customizable workflow for healthcare professionals.
+Development of an extensive modular GUI and customizable workflow for healthcare professionals.
 
 2005
 :   **Software Developer, The Laptop Company, New Zealand.**
 
-* Development and maintenance of an ecommerce website.
+Development and maintenance of an ecommerce website.

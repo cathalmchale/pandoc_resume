@@ -12,9 +12,7 @@ Architecture, design and development of a multi-tenant B2B eProcurement and self
       * High quality story-by-story agile increments into Production.
 * Migrated the company's NoSQL offering to an "enterprise worthy" multi-node cluster.
    * RavenDB (eventually consistent, Json document, NoSQL database with ACID transactions).
-   * Secured (TLS, API keys) 3-node cluster with role-based access.
-   * Highly Available with dynamic leader selection, 3-way replication and conflict resolution.
-   * Load Balanced reads.
+   * **Secured** (TLS, API keys) 3-node cluster, **Highly Available** (dynamic leader, 3-way replication, conflict resolution), **Load Balanced** reads.
 * ASP.NET MVC web application and Web API services.
    * .NET Core, Angular JS, Bootstrap.
    * N-tier monolith, domain driven design with commands, operations, model behaviours etc.
@@ -26,7 +24,6 @@ Architecture, design and development of a multi-tenant B2B eProcurement and self
    * **E**lastic search, **L**og stash, **K**ibana (ELK stack).
    * File beats (logs), Metric beats (resources).
    * Proactive issue tracking and happy customers.
-   * Fully managed, geo-distributed, multi-shard instance at minimal cost. 
 
 
 2010–2014

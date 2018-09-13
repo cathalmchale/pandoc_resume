@@ -10,7 +10,7 @@ pdf: init
 		--from markdown --to context \
 		--variable papersize=A4 \
 		--output $(OUT_DIR)/resume.tex \
-		$(IN_DIR)/header.md $(IN_DIR)/education.md $(IN_DIR)/technology.md $(IN_DIR)/jobs.md $(IN_DIR)/other-jobs.md $(IN_DIR)/projects.md $(IN_DIR)/workplace.md $(IN_DIR)/footer.md \
+		$(IN_DIR)/header.md $(IN_DIR)/education.md $(IN_DIR)/technology.md $(IN_DIR)/jobs.md $(IN_DIR)/other-jobs.md $(IN_DIR)/projects.md $(IN_DIR)/break.md $(IN_DIR)/workplace.md $(IN_DIR)/footer.md \
 		> /dev/null; \
 	sed -i 's/\(REPLACE_NEWPAGE\)/\\page[yes]/g' $(OUT_DIR)/resume.tex > /dev/null; \
 	context $(OUT_DIR)/resume.tex \
