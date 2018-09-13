@@ -2,6 +2,6 @@
 
 ----
 
-> Software Developer and Architect, responsible for engineering large scale distributed enterprise applications since 2010 and a further ten years experience as a Software Developer across several industries in varied company sizes and types.
+> Software Developer and Architect, responsible for engineering large scale distributed enterprise applications. B.Sc. Hons I.T. graduate from NUIG working in the private sector since 2003. Courageous scrum team member with proven ability to institute change.
 
 ----

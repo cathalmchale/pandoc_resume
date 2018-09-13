@@ -6,19 +6,15 @@
 __IDION BV, The Netherlands__
 
 * Upgrade of a v1.1 ASP.NET web application to v3.5, with primary command over technical decision making.
-* MVP architecture, NHibernate, Castle Windsor.
-* WCF SoA with Biz Talk integrations.
-* Working together with remote teams required excellent communication skills.
+* MVP architecture, NHibernate, Castle Windsor, WCF SoA with Biz Talk integrations.
 * Travelled to The Netherlands to strengthen business relations and project understanding.
 * Project analysis, specification and time estimation.
 
 __KRO IT Solutions, Galway__
 
-Project based work with systems as diverse as:
+Project based work with systems across varying industries; Gas power stations, green energy, hospital healthcare solutions.
 
-* In-house management tools for General Electric gas power stations.
-* Patient management application for St. Michael's hospital Dun Laoghaire.
-* Data driven websites for numerous clients and industries.
+* ASP.NET MVC, data driven web applications.
 
 2007-2008
 :   **Software Developer, Payzone, Dublin.**

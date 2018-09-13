@@ -41,8 +41,7 @@ Development of an endpoint management and security suite that helps businesses p
 
 * ASP.NET web forms UI.
    * MVP pattern, Entity Framework (repository pattern), T4 scaffolding for TDD.
-   * Ajax, JQuery, Telerik.
-   * Dependency Injection with MS Unity.
+   * Ajax, JQuery, Telerik, Dependency Injection with MS Unity.
 
 
 * Windows Services (C#).
@@ -53,17 +52,10 @@ Development of an endpoint management and security suite that helps businesses p
 	  
         MS SQL Server.
         Multi-AppDomain, x-process design.
-        Task Parallel Library
-        Unit of Work pattern.
-        Single server node supporting 10,000 endpoints. Load balancing via multiple licensed on-premise nodes.
+        Task Parallel Library / Unit of Work pattern.
 
 * Windows Agent (C++).
    * Kernel–User mode synchronization.
    * Native Win32 file system interactions e.g. scanning, hashing, certificate validation.
    * Boost and STL.
-   
-* Agile development.
-   * Courageous scrum team member.
-   * Proven ability to institute change; among peers and by managing upwards.
-   * Disciplined approach to elaborating, estimating and implementing a prioritised backlog. 
 
