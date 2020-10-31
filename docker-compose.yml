@@ -6,7 +6,8 @@ services:
     build:
       context: .
       dockerfile: ./.docker/resume.dockerfile
-    command: make
+    #command: make
+    tty: true
     container_name: resume-make
     image: resume-make
     volumes:
