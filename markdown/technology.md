@@ -13,13 +13,13 @@ web client
 :   Javascript, JQuery, AngularJS, React
 
 devops
-:   Continuous delivery, Azure DevOps Pipelines, Git, Octopus Deploy, Docker, Kubernetes (+nginx), Azure PaaS (broad x-section)
+:   Continuous delivery, Azure DevOps Pipelines, Git, Octopus Deploy, Docker, Kubernetes (nginx ingress), Azure PaaS (broad cross section)
 
 code
 :   Visual Studio, VSCode, Git, TFS, Subversion, Azure DevOps
 
 services
-:   REST, Swagger API, Azure API Gateway, WCF, SOA, XML/XSD, EDI
+:   REST, Swagger API, Azure API Gateway, WCF, SOAP, XML/XSD, EDI
 
 composition
 :   MS Unity, Castle Windsor, .NET Core IoC

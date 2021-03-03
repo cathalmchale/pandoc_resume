@@ -4,14 +4,15 @@
 
 ___IDION BV, The Netherlands___
 
+Healthcare dashboards (ASP.NET) and B2B integrations (Biz Talk, HL7) between labs and hospital.
+
 * Upgrade ASP to ASP.NET v3.5, with primary command over technical decision making.
 * MVP architecture, NHibernate, Castle Windsor, WCF and Biz Talk B2B integrations.
-* Travelled to The Netherlands to strengthen business relations and project understanding.
 * Project analysis, specification and time estimation.
 
 ___KRO IT Solutions, Galway___
 
-Project based work with systems across varying industries; Gas power stations, green energy, hospital healthcare solutions.
+Project based work with systems across various industries; Gas power stations, green energy, hospital healthcare solutions.
 ASP.NET MVC, data driven web applications.
 
 2007-2008
@@ -28,4 +29,4 @@ ASP.NET web forms software development of an extensive modular GUI and customiza
 2005
 :   **Software Developer, The Laptop Company, New Zealand.**
 
-ASP.NET web forms software development and maintenance of an ecommerce website for schools (public sector).
+ASP.NET web forms software development and maintenance of an ecommerce website for universities and schools.

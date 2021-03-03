@@ -5,7 +5,7 @@
 
 Architecture, design and development of a multi-tenant B2B eProcurement and self-service ecommerce platform. The platform processes sales of $600M/yr for fortune 500 companies, with circa 250k electronic B2B transactions via external APIs.
 
-* Leader of the DevOps movement across all business units.
+* Successful leader of a pivotal DevOps movement across all business units.
    * Continuous Delivery.
       * Azure DevOps Pipelines, Git, Octopus Deploy, Biz Talk Deployment Framework.
       * Azure PaaS, including Azure Kubernetes Service and all Docker concerns.
@@ -18,7 +18,7 @@ Architecture, design and development of a multi-tenant B2B eProcurement and self
    * N-tier monolith, Angular JS (moving to React), Bootstrap.
    * Breaking up the monolith - distributed APIs and workloads moving to Azure PaaS.
 * Biz Talk B2B integrations (moving to Azure Logic Apps).
-   * Sync-to-async transactions using standards (SAP Ariba, EDI, cXML) and custom integrations.
+   * Sync-to-async transactions using standards (SAP Ariba, EDI, cXML) and bespoke integrations.
 
 
 2010–2014
@@ -27,7 +27,7 @@ Architecture, design and development of a multi-tenant B2B eProcurement and self
 Development of an endpoint management and security suite that helps businesses protect their vital information and manage critical risk across network and endpoint assets.
 
 * Senior Engineer with architectural and mentorship responsibilities.
-* Key role in the delivery of three major releases and several update releases of Lumension's flagship product.
+* Key role in the delivery of Lumension's flagship product.
    * Mission critical enterprise software deployed to every PC and mobile device in our customers organisation.
    * Deployments of 20,000+ nodes.
 
