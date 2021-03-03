@@ -1,7 +1,7 @@
 ## Workplace Acclaim
 
 2017 
-:   Leading the DevOps offerings across all business units.
+:   Leader of DevOps Movement - Fully automated deployment processes, formerly involving a war room team to plan and days to execute!
 
 2016 
 :   Migrated the company's NoSQL offering to an "enterprise worthy" multi-node cluster.

@@ -1,5 +1,8 @@
 ## Education
 
+2020
+:   **Kubernetes Application Developer**, GuruTeam, Ireland.
+
 2017 
 :   **Microservices**, Skillnet, Galway.
 
@@ -8,9 +11,6 @@
 
 2013
 :   **Scrum Training**, Agile42, Galway.
-
-2012
-:   **Advanced C++ Programming**, Neueda, Galway.
 
 2000–2004
 :   **B.Sc. Hons Information Technology**, National University of Ireland, Galway.

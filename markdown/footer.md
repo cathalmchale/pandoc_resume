@@ -1,9 +1,13 @@
 ## Interests
-__coding__ A real passion – started in my early teens and my enthusiasm is still as genuine today.
 
-__sport__ Especially swimming, cycling, running and squash. Also coaching at under age.
+coding 
+:   A real passion – started in my early teens and my enthusiasm is still as genuine today.
 
-__music__ Playing guitar and discovering new artists.
+sport 
+:   Especially swimming, cycling, running and squash. Also coaching at under age.
+
+music 
+:   Playing guitar and discovering new artists.
 
 
 ## References

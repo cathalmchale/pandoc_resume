@@ -1,16 +1,15 @@
-### Other roles involving .NET development
 
 2008-2010
 :   **Software Developer and Architect, Freelance.**
 
-__IDION BV, The Netherlands__
+___IDION BV, The Netherlands___
 
 * Upgrade ASP to ASP.NET v3.5, with primary command over technical decision making.
-* MVP architecture, NHibernate, Castle Windsor, WCF SoA with Biz Talk integrations.
+* MVP architecture, NHibernate, Castle Windsor, WCF and Biz Talk B2B integrations.
 * Travelled to The Netherlands to strengthen business relations and project understanding.
 * Project analysis, specification and time estimation.
 
-__KRO IT Solutions, Galway__
+___KRO IT Solutions, Galway___
 
 Project based work with systems across varying industries; Gas power stations, green energy, hospital healthcare solutions.
 ASP.NET MVC, data driven web applications.
@@ -18,15 +17,15 @@ ASP.NET MVC, data driven web applications.
 2007-2008
 :   **Software Developer, Payzone, Dublin.**
 
-Primary responsibility for the development of one of Payzone's core products.
-Unit testing and automated deployments integrating with an ecosystem that handles in excess of one million transactions daily.
+C# software development on one of Payzone's core products.
+Unit testing and automated deployments, integrating with an ecosystem that handles in excess of one million transactions daily.
 
 2006-2007
 :   **Software Developer, Quantum Healthcare Informatics, Dublin.**
 
-Development of an extensive modular GUI and customizable workflow for healthcare professionals.
+ASP.NET web forms software development of an extensive modular GUI and customizable workflow for healthcare professionals.
 
 2005
 :   **Software Developer, The Laptop Company, New Zealand.**
 
-Development and maintenance of an ecommerce website.
+ASP.NET web forms software development and maintenance of an ecommerce website for schools (public sector).

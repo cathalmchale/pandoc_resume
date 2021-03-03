@@ -1,34 +1,34 @@
 ## Technology Summary
 
 core languages
-:   C#, C++, Powershell, Javascript
+:   C#, Powershell, Javascript
 
 others
-:   Java, VB, Bash
+:   Java, C++, VB, Bash, Python
 
 web server
-:   ASP.NET – web forms, MVC, Web API, .NET Core
+:   ASP.NET – Core, MVC, Web API
 
 web client
-:   Javascript, JQuery, Telerik, AngularJS
+:   Javascript, JQuery, AngularJS, React
+
+devops
+:   Continuous delivery, Azure DevOps Pipelines, Git, Octopus Deploy, Docker, Kubernetes (+nginx), Azure PaaS (broad x-section)
 
 code
-:   Visual Studio, TFS, Subversion, VSTS, Git
+:   Visual Studio, VSCode, Git, TFS, Subversion, Azure DevOps
 
 services
-:   WCF, SOA, XML/XSD, REST, Swagger API
+:   REST, Swagger API, Azure API Gateway, WCF, SOA, XML/XSD, EDI
 
 composition
-:   MS Unity, Castle Windsor
+:   MS Unity, Castle Windsor, .NET Core IoC
 
 unit test
-:   MS Test, NUnit, Moq, Performance and Load testing
+:   NUnit, xUnit, Moq, Pester, Gherkin (Cucumber), Performance and Load testing
 
 sql
 :   SQL Server, MySql, tSQL, Profiler, Entity Framework, NHibernate
 
-database
-:   NoSQL, RavenDB, Elastic Search
-
-devops
-:   VSTS, Git, Octopus Deploy, Docker, Continuous delivery
+nosql 
+:   RavenDB, MongoDB, Elastic Search, Azure Table Storage
