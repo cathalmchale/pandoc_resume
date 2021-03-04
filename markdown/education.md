@@ -1,7 +1,10 @@
 ## Education
 
 2020
-:   **Kubernetes Application Developer**, GuruTeam, Ireland.
+:   **Kubernetes Application Developer**, GuruTeam, IE (online).
+
+2019
+:   **Elastic Search**, Elastic Co, Dublin.
 
 2017 
 :   **Microservices**, Skillnet, Galway.
@@ -21,6 +24,3 @@
 :   **A-level**, Cross and Passion College, Antrim.
 
     *Maths, Physics, Biology*
-
-1992–1998
-:   **GCSE**, Cross and Passion College, Antrim.
